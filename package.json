@@ -1,7 +1,7 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "calvinhaviandy-portofolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://calvinhaviandy.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
