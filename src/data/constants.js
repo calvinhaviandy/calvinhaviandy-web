@@ -298,12 +298,27 @@ export const projects = [
     webapp:
       "https://www.figma.com/design/PPu8aczpqGHgnKuPKTgnn5/GIZITRONN?node-id=0-1&t=mNYi5IzDMpzTS6VQ-1 ",
   },
+  {
+    id: 5,
+    title: "Zoom Remake",
+    date: "Jan 2024",
+    description:
+      "Zoom Remake is a powerful video conferencing tool integrated directly into our website, designed to provide seamless virtual meetings, webinars, and collaboration. This platform allows users to connect with others in real-time, whether for business, education, or social purpose.",
+    image:
+      "https://github.com/calvinhaviandy/Picture/blob/main/Section%201.png",
+    tags: ["Figma"],
+    category: "ui/ux",
+    github:
+      "https://www.figma.com/design/Z18lvv7oYEBcXuP5Om5STV/Zoom-meet-Remake?node-id=226-2&t=W00OV0lrLLgacszz-1",
+    webapp:
+      "https://www.figma.com/design/Z18lvv7oYEBcXuP5Om5STV/Zoom-meet-Remake?node-id=226-2&t=W00OV0lrLLgacszz-1 ",
+  },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
