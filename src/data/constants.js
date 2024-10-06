@@ -313,6 +313,19 @@ export const projects = [
     webapp:
       "https://www.figma.com/design/Z18lvv7oYEBcXuP5Om5STV/Zoom-meet-Remake?node-id=226-2&t=W00OV0lrLLgacszz-1 ",
   },
+  {
+    id: 6,
+    title: "Tictactoe",
+    date: "Apr 2024",
+    description:
+      "Tic-Tac-Toe is a two-player game where players take turns marking a 3x3 grid. The first player to get three marks in a row (horizontally, vertically, or diagonally) wins the game. If all nine squares are filled and no player has achieved three marks in a row, the game ends in a draw.",
+    image:
+      "https://raw.githubusercontent.com/calvinhaviandy/tictactoe/refs/heads/main/Screenshot%202024-10-06%20194625.png",
+    tags: ["JavaScript", "ReactJS"],
+    category: "web app",
+    github: "https://github.com/calvinhaviandy/tictactoe",
+    webapp: "#",
+  },
 ];
 
 // export const TimeLineData = [
