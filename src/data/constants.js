@@ -305,7 +305,7 @@ export const projects = [
     description:
       "Zoom Remake is a powerful video conferencing tool integrated directly into our website, designed to provide seamless virtual meetings, webinars, and collaboration. This platform allows users to connect with others in real-time, whether for business, education, or social purpose.",
     image:
-      "https://github.com/calvinhaviandy/Picture/blob/main/Section%201.png",
+      "https://github.com/calvinhaviandy/Picture/blob/main/Section%201.png?raw=true",
     tags: ["Figma"],
     category: "ui/ux",
     github:
